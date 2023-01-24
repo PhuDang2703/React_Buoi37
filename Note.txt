@@ -1,0 +1,38 @@
+https://github.com/dpnguyen53/bc39reactjs
+
+====== Buổi 1 ======
+    - Component:
+        + Stateful Component: class
+        + Stateless Component: function
+
+====== Buổi 2 ======
+    - Rendering elements: {}
+    - Handling Events: onClick
+    - State: Nếu như state => component render lại lần mới
+    - List keys
+
+====== Buổi 3 ======
+    - Communicate: giao tiếp các component
+        + Props: truyền data từ component cha => component con
+        + Lifting State Up: truyền data từ component con => component cha
+
+====== Buổi 4 ======
+    - Cart Demo
+
+====== Buổi 5 ======
+    - User management
+    - Form
+
+====== Buổi 6 ======
+    - User management
+    - Redux
+
+====== Buổi 7 ======
+    - User management Redux
+
+====== Buổi 8 ======
+    - React Router Dom
+
+====== Buổi 9 ======
+    - Form validation
+    - Lifecycle
